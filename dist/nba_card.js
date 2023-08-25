@@ -118,15 +118,6 @@ export class NBACard extends LitElement {
         setSportData(sport, t, stateObj, c, team, oppo)
 
         //
-        //  NCAA Specific Changes
-        //
-        if (stateObj.attributes.league) {
-            if (stateObj.attributes.league.includes("NCAA")) {
-                c.notFoundLogo = 'https://a.espncdn.com/i/espn/misc_logos/500/ncaa.png'
-            }
-        }
-
-        //
         //  Reduce score font size if needed
         //
 

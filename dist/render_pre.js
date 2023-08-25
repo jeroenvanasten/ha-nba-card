@@ -33,8 +33,8 @@ export function renderPre(c) {
                 <div class="team">
                     <img class="logo" src="${c.logo[1]}" />
                     <div class="circle">${c.initials[1]}</div>
-                    <div class="name"><span class="rank">${c.rank[1]}</span> ${c.name[1]}</div>
-                    <div class="record">${c.record[1]}</div>
+                    <div class="name"><span class="rank"></span> ${c.name[1]}</div>
+                    <div class="record"></div>
                 </div>
                 <div class="gamewrapper">
                     <div class="gameday">${c.gameWeekday}</div>
@@ -44,8 +44,8 @@ export function renderPre(c) {
                 <div class="team">
                     <img class="logo" src="${c.logo[2]}" />
                     <div class="circle">${c.initials[2]}</div>
-                    <div class="name"><span class="rank">${c.rank[2]}</span> ${c.name[2]}</div>
-                    <div class="record">${c.record[2]}</div>
+                    <div class="name"><span class="rank"></span> ${c.name[2]}</div>
+                    <div class="record"></div>
                 </div>
             </div>
             <div class="line"></div>

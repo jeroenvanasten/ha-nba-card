@@ -61,8 +61,8 @@ export function renderIn(c) {
                 <div class="team">
                     <img class="logo" src="${c.logo[1]}" />
                     <div class="circle">${c.initials[1]}</div>
-                    <div class="name"><span class="rank">${c.rank[1]}</span> ${c.name[1]}</div>
-                    <div class="record">${c.record[1]}</div>
+                    <div class="name"><span class="rank"></span> ${c.name[1]}</div>
+                    <div class="record"></div>
                     <div class="timeouts">
                         <div class="timeouts1"></div>
                         <div class="timeouts1"></div>
@@ -70,15 +70,15 @@ export function renderIn(c) {
                     </div>
                 </div>
                 <div class="possession1">&bull;</div>
-                <div class="score">${c.score[1]}</div>
+                <div class="score">---</div>
                 <div class="divider">&nbsp&nbsp&nbsp</div>
-                <div class="score">${c.score[2]}</div>
+                <div class="score">---</div>
                 <div class="possession2">&bull;</div>
                 <div class="team">
                     <img class="logo" src="${c.logo[2]}" />
                     <div class="circle">${c.initials[2]}</div>
-                    <div class="name"><span class="rank">${c.rank[2]}</span> ${c.name[2]}</div>
-                    <div class="record">${c.record[2]}</div>
+                    <div class="name"><span class="rank"></span> ${c.name[2]}</div>
+                    <div class="record"></div>
                     <div class="timeouts">
                         <div class="timeouts2"></div>
                         <div class="timeouts2"></div>

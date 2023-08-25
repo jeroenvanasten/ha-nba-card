@@ -11,7 +11,7 @@ import { initCardData, setCardFormat, setDefaults, setStartInfo } from './set_de
 import { setSportData } from './set_sports.js';
 
 
-export class TeamTrackerCard extends LitElement {
+export class NBACard extends LitElement {
 
     static get properties() {
         return {

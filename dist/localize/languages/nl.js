@@ -1,7 +1,7 @@
 export const nl = {
     "common": {
         "api_error": "API Error",
-        "no_upcoming_games": "Gêên tot %s",
+        "no_upcoming_games": "Géén tot %s",
         "finalTerm": "%s - Uitslag",
         "byeTerm": "BYE",
         "tourney2": "Finals",

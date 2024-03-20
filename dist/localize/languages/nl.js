@@ -16,7 +16,7 @@ export const nl = {
         "tomorrow": "Morgen"
     },
     "basketball": {
-        "startTerm": "Tipoff",
+        "startTerm": "Start",
         "overUnder": "+/-: %s",
         "gameStat1": "%s",
         "gameStat2": "%s",

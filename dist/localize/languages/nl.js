@@ -1,7 +1,7 @@
 export const nl = {
     "common": {
         "api_error": "API Error",
-        "no_upcoming_games": "Geen wedstrijden tot %s",
+        "no_upcoming_games": "Gêên tot %s",
         "finalTerm": "%s - Uitslag",
         "byeTerm": "BYE",
         "tourney2": "Finals",
@@ -10,8 +10,8 @@ export const nl = {
         "tourney16": "Round of 16",
         "tourney32": "Round of 32",
         "tourney64": "Round of 64",
-        "tourney128": "Early Rounds",
-        "tourney256": "Early Rounds",
+        "tourney128": "Voorrondes",
+        "tourney256": "Voorrondes",
         "today": "Vandaag",
         "tomorrow": "Morgen"
     },

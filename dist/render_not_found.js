@@ -1,4 +1,4 @@
-import { html } from "https://cdn.jsdelivr.net/gh/lit/dist@2/core/lit-core.min.js";
+import { html } from "https://cdn.jsdelivr.net/gh/lit/dist@3/core/lit-core.min.js";
 
 
 // Define the rendering function
@@ -19,7 +19,7 @@ export function renderNotFound(c) {
         <ha-card>
             <div class="card">
                 <div class="title">${c.title}</div>
-                <img class="team-bg" src="${c.notFoundLogoBG}" />
+                <img class="team-bg" />
                 <div class="card-content">
                     <div class="team">
                         <img class="logo" src="${c.notFoundLogoBG}" />

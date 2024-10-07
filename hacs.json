@@ -2,6 +2,6 @@
   "name": "NBA Card",
   "filename": "ha-nba-card.js",
   "render_readme": true,
-  "homeassistant": "v0.1.6",
+  "homeassistant": "v0.1.7",
   "country": ["NL"]
 }

@@ -16,8 +16,8 @@ export function renderPost(c) {
         .team img { max-width: 90px; }
         .circle { display:${c.initialsDisplay}; width: 1em; height: 1em; padding: 10px; line-height: 3em; border: 2px solid gray; border-radius: 50%; font-size: 2em; color: white; text-align: center; background: black }
         .score { font-size: ${c.scoreSize}; text-align: center; line-height: 1; }
-        .score1op { opacity: ${c.scoreOp[1]}; }
-        .score2op { opacity: ${c.scoreOp[2]}; }
+        .score1op { opacity: 1; }
+        .score2op { opacity: 1; }
         .divider { font-size: 2.5em; text-align: center; opacity: 0; }
         .name { font-size: 1.2em; font-weight:bold; }
         .post-row1 { font-size: 1.2em; text-align: center; }

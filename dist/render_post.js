@@ -44,7 +44,7 @@ export function renderPost(c) {
                     <div class="record"></div>
                 </div>
             </div>
-            <div class="post-row1">${c.startTerm} - Ended</div>
+            <div class="post-row1">${c.gameDatePOST} - Ended</div>
         </div>
     </ha-card>
     `;    // Return the HTML template
